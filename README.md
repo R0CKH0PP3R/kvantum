@@ -1,6 +1,5 @@
 # kvantum
-### Fixes and edits
 
-For now, just a fix for [Matchama-KDE's](https://gitlab.com/cscs/matchama-kde) Azul variant of Matchama, which ironically matched very little.
+My Azul variant of [Matcha-kde](https://github.com/vinceliuice/Matcha-kde) as the existing [Matchama](https://gitlab.com/cscs/matchama-kde) version was somewhat inconsistent.
 
-There's also a version where the base colours have been swapped.
+A matching KDE colour scheme is planned to follow.
